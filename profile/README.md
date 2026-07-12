@@ -14,4 +14,4 @@ Quick and dirty, vibe-coded (QDVC) applications.
 - 🕒 [qdvc-countdowns](https://github.com/qdvc-apps/qdvc-countdowns) - simple native GTK3 countdown list, similar to Bears Countdown
 - 🖥️ [qdvc-display-toggle](https://github.com/qdvc-apps/qdvc-display-toggle) - quickly change multi-monitor arrangement using Super+P (Win+P) on MATE and maybe XFCE
 - 🧰 [qdvc-equip](https://github.com/qdvc-apps/qdvc-equip) - native GTK3/GTK4 asset management (tools, equipment, materials)
-- 📒 [qdvc-markdown-notebook](https://github.com/blairwang-online/qdvc-markdown-notebook) - simple native GTK3 Markdown editor, similar to Obsidian, FSNotes, Markor
+- 📒 [qdvc-markdown-notebook](https://github.com/qdvc-apps/qdvc-markdown-notebook) - simple native GTK3 Markdown editor, similar to Obsidian, FSNotes, Markor
