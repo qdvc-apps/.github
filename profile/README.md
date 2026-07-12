@@ -2,7 +2,7 @@
 
 Quick and dirty, vibe-coded (QDVC) applications.
 
-### Command-line Python progarms
+### Command-line Python programs
 
 - 📬 [qdvc-gtd-eml](https://github.com/qdvc-apps/qdvc-gtd-eml) - implementation of GTD workflow on a collection of EML email messages
 - ❤️ [qdvc-health-dashboard](https://github.com/qdvc-apps/qdvc-health-dashboard) - generates single-page analytics dashboard for personal health stats
