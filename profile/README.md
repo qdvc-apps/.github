@@ -1,6 +1,6 @@
 ## qdvc-apps
 
-Quick and dirty, vibe-coded (QDVC) applications.
+Quick and dirty, vibe-coded (QDVC) applications. A project of [@blairwang-online](https://github.com/blairwang-online/) - but keen for collaborators!
 
 ### Command-line Python programs
 
